@@ -2,7 +2,7 @@
 
 Below are the top contributors on the main branch, based on commit counts:
 
-- scott-oai: 34 commits
+- scott-oai: 35 commits
 - egorsmkv: 4 commits
 - axion66: 2 commits
 
